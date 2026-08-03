@@ -243,27 +243,23 @@ _021_trade/
 
 ## Screenshots
 
-### Home Screen
-<h3 align="center">Home Screen</h3>
-
+### Home Screen & Market Screen
 <p align="center">
-  <img src="assets/screenshots/home.png" width="280"/>
+  <img src="assets/screenshots/home.png" width="260"/>
+  <img src="assets/screenshots/market.png" width="260"/>
 </p>
 
-### Market Screen
-![Market Screen](assets/screenshots/market.png)
+### Trade Ticket & Holdings Screen
+<p align="center">
+  <img src="assets/screenshots/trade_ticket.png" width="260"/>
+  <img src="assets/screenshots/holdings.png" width="260"/>
+</p>
 
-### Trade Ticket
-![Trade Ticket](assets/screenshots/trade_ticket.png)
-
-### Holdings Screen
-![Holdings Screen](assets/screenshots/holdings.png)
-
-### Watchlist Detail
-![Watchlist Detail](assets/screenshots/watchlist_detail.png)
-
-### Order Confirmation
-![Order Confirmation](assets/screenshots/order_confirmation.png)
+### Watchlist Detail & Order Confirmation
+<p align="center">
+  <img src="assets/screenshots/watchlist_detail.png" width="260"/>
+  <img src="assets/screenshots/order_confirmation.png" width="260"/>
+</p>
 
 ---
 
