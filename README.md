@@ -244,7 +244,11 @@ _021_trade/
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+<h3 align="center">Home Screen</h3>
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="280"/>
+</p>
 
 ### Market Screen
 ![Market Screen](assets/screenshots/market.png)
