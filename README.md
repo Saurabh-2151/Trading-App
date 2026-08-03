@@ -335,7 +335,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Your Name**
+**Saurabh Ganjale**
 
 - LinkedIn: [saurabh-ganjale](https://www.linkedin.com/in/saurabh-ganjale-5b5b76257/)
 - GitHub: [Saurabh-2151](https://github.com/Saurabh-2151/Trading-App.git)
