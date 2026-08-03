@@ -210,8 +210,8 @@ _021_trade/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-trading-app.git
-   cd flutter-trading-app
+   git clone https://github.com/Saurabh-2151/Trading-App.git
+   cd Trading-App
    ```
 
 2. **Install dependencies**
@@ -244,22 +244,22 @@ _021_trade/
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](assets/screenshots/home.png)
 
 ### Market Screen
-![Market Screen](screenshots/market.png)
+![Market Screen](assets/screenshots/market.png)
 
 ### Trade Ticket
-![Trade Ticket](screenshots/trade_ticket.png)
+![Trade Ticket](assets/screenshots/trade_ticket.png)
 
 ### Holdings Screen
-![Holdings Screen](screenshots/holdings.png)
+![Holdings Screen](assets/screenshots/holdings.png)
 
 ### Watchlist Detail
-![Watchlist Detail](screenshots/watchlist_detail.png)
+![Watchlist Detail](assets/screenshots/watchlist_detail.png)
 
 ### Order Confirmation
-![Order Confirmation](screenshots/order_confirmation.png)
+![Order Confirmation](assets/screenshots/order_confirmation.png)
 
 ---
 
@@ -334,8 +334,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Your Name**
 
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- GitHub: [your-github-username](https://github.com/yourusername)
+- LinkedIn: [saurabh-ganjale](https://www.linkedin.com/in/saurabh-ganjale-5b5b76257/)
+- GitHub: [Saurabh-2151](https://github.com/Saurabh-2151/Trading-App.git)
 
 ---
 

@@ -53,7 +53,7 @@ class PremiumBottomNav extends StatelessWidget {
             _NavItem(
               icon: Icons.account_balance_wallet_outlined,
               selectedIcon: Icons.account_balance_wallet_rounded,
-              label: 'Portfolio',
+              label: 'Holdings',
               isSelected: selectedIndex == 2,
               onTap: () => onDestinationSelected(2),
             ),

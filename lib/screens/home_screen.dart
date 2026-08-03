@@ -278,7 +278,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Portfolio Value',
+                  'Holdings Value',
                   style: AppTheme.body2.copyWith(
                     color: Colors.white70,
                     letterSpacing: 0.3,

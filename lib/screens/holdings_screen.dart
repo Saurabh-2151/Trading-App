@@ -77,7 +77,7 @@ class _HoldingsScreenState extends ConsumerState<HoldingsScreen> {
     return Scaffold(
       backgroundColor: AppTheme.backgroundColor,
       appBar: AppBar(
-        title: const Text('Portfolio'),
+        title: const Text('Holdings'),
         actions: [
           PopupMenuButton<HoldingSortType>(
             icon: const Icon(Icons.sort_rounded),
