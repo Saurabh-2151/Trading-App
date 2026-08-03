@@ -246,18 +246,21 @@ _021_trade/
 ### Home Screen & Market Screen
 <p align="center">
   <img src="assets/screenshots/home.png" width="260"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/market.png" width="260"/>
 </p>
 
 ### Trade Ticket & Holdings Screen
 <p align="center">
   <img src="assets/screenshots/trade_ticket.png" width="260"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/holdings.png" width="260"/>
 </p>
 
 ### Watchlist Detail & Order Confirmation
 <p align="center">
   <img src="assets/screenshots/watchlist_detail.png" width="260"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/order_confirmation.png" width="260"/>
 </p>
 
